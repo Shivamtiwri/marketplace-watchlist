@@ -30,3 +30,11 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+ Marketplace Watchlist — React + TypeScript app with a favorites/watchlist feature.
+  Built with Vite, Zustand for state management, and Tailwind CSS for styling.
+
+  Features:
+  - Heart button on each asset card to add/remove from watchlist
+  - Watchlist filter toggle to show only favorited assets
+  - Live favorites count badge in the header
+  - 8 mock assets across token, DeFi, and NFT categories
